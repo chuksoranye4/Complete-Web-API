@@ -1,5 +1,5 @@
 # Complete-Web-API
 # Entity Framework
-# AuotMapper
+# Auto-Mapper
 # Web API
 # 
